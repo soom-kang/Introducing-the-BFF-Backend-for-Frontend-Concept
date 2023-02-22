@@ -517,7 +517,7 @@ export const load = (async ({ route }) => {
 
 ## Result
 
-### > [Stackblitz Sample Link](https://stackblitz.com/edit/sveltekit-supabase?file=src/lib/country/graphql/query.generated.ts)
+### 👉 [CodeSandBox Sample Link](https://codesandbox.io/p/github/soom-kang/Introducing-the-BFF-Backend-for-Frontend-Concept/main?workspaceId=99d1ebdb-6029-4fa4-945c-b71e7dfc3e5d&file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522cleeyhlk4000gg2hn8ptgf7vc%2522%252C%2522openFiles%2522%253A%255B%2522%252FREADME.md%2522%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522spaces%2522%253A%257B%2522cleeyhor200153b6myo1ocm3y%2522%253A%257B%2522key%2522%253A%2522cleeyhor200153b6myo1ocm3y%2522%252C%2522name%2522%253A%2522Default%2522%252C%2522devtools%2522%253A%255B%257B%2522key%2522%253A%2522cleeyhor200163b6m7vry2tvv%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Atrue%257D%252C%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A5173%252C%2522key%2522%253A%2522cleeyi1g6007p3b6moijdr74s%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522key%2522%253A%2522cleeyhzue00583b6mu0ys41s4%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D%257D%252C%2522currentSpace%2522%253A%2522cleeyhor200153b6myo1ocm3y%2522%252C%2522spacesOrder%2522%253A%255B%2522cleeyhor200153b6myo1ocm3y%2522%255D%252C%2522hideCodeEditor%2522%253Afalse%257D)
 
 ![Result](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuflqar9btti12r02qvi.png)
 
