@@ -1,0 +1,10 @@
+query Countries {
+	countries {
+		id
+		name
+		iso2
+		iso3
+		local_name
+		continent
+	}
+}

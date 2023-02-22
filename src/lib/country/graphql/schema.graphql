@@ -1,0 +1,12 @@
+type Country {
+	id: Int!
+	name: String!
+	iso2: String!
+	iso3: String!
+	local_name: String
+	continent: String
+}
+
+type Query {
+	country: Country
+}
