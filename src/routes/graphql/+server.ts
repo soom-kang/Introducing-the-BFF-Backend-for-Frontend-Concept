@@ -14,8 +14,6 @@ const defaultQuery = await loadDocuments('./src/lib/countries/graphql/query.grap
 	loaders: [new GraphQLFileLoader()]
 }).then((res) => res[0].rawSDL);
 
-console.log(countries);
-
 const yogaApp = createYoga<RequestEvent>({
 	schema: createSchema({
 		typeDefs,
