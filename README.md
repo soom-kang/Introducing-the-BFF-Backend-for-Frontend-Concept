@@ -455,6 +455,8 @@ import type { UseQueryOptions } from '@sveltestack/svelte-query';
 
 ---
 
+### Setting up Frontend
+
 이제 `view` 레벨 작성
 
 `SPA` 는 마운트되면서 빈 `index.html` 에 js 패키지를 로딩하는 식으로 렌더링을 하기 때문에 SEO 에 굉장히 불리하나 `SSR` 은 `Hydration technique`을 통해 필요한 데이터를 미리 로딩하여 SEO 에 장점을 가져갈수 있다
