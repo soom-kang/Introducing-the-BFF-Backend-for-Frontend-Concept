@@ -103,8 +103,9 @@ pnpm add -S @supabase/supabase-js
 
 ```ts
 import { createClient } from '@supabase/supabase-js';
+import { ANON_KEY, PROJECT } from '$env/static/private'; // load from env
 
-const supabase = createClient('https://<project>.supabase.co', '<your-anon-key>');
+const supabase = createClient(`https://${PROJECT}.supabase.co`, ANON_KEY);
 
 export default supabase;
 ```
